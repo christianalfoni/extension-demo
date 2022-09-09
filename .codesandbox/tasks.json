@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": {
+      "name": "Run Sandpack",
+      "command": "npx sandpack-extension-demo"
+    }
+  }
+}
